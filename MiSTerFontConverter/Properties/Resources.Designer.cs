@@ -59,15 +59,5 @@ namespace MiSTerFontConverter.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Computer_Amiga_Topaz {
-            get {
-                object obj = ResourceManager.GetObject("Computer_Amiga-Topaz", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
